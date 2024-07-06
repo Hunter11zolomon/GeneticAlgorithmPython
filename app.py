@@ -7,7 +7,7 @@ def sphere(x):
     return sum(x**2)
 
 def costfunction(x):
-    return x
+    return x+1
 
 # Problem Definition
 
